@@ -4,7 +4,7 @@ gcp_svc_account = "../06_secrets/ada-svc-001.json"
 
 gke_cluster_name = "ada-demo-cluster"
 
-gke_cluster_region = "europe-west3"
+gke_cluster_region = "europe-west3-a"
 
 gke_node_count = 1
 
