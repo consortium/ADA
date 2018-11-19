@@ -1,7 +1,7 @@
-|Gitter| |Status| |License| |Build| 
-
 ADA Infrastructure
 ==================
+
+Gitter https://gitter.im/consortium
 
 This is the ADA-Infrastructure repository to create a publishing microservice landscape in different platforms. First supported platform will be the Google Cloud (GCP).
 
