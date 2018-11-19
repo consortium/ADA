@@ -1,7 +1,7 @@
 ADA Infrastructure
 ==================
 
-A FOSS R&D software project for 'publishing microservices and infrastructure automation' as a consortium lead by TIB – German National Library of Science and Technology
+A FOSS R&D software project for 'publishing microservices and infrastructure automation' as a consortium lead by TIB – German National Library of Science and Technology. Consortium partners are: Endocode, Le-tex, Fidus Writer, and Vivliostyle.
 
 Gitter https://gitter.im/consortium
 
