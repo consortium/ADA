@@ -1,7 +1,11 @@
 ADA Infrastructure
 ==================
 
+A FOSS R&D software project for 'publishing microservices and infrastructure automation' as a consortium lead by TIB – German National Library of Science and Technology
+
 Gitter https://gitter.im/consortium
+
+`Project status <github.com/consortium/ADA_infra/wiki>`_ > Nov 2018
 
 This is the ADA-Infrastructure repository to create a publishing microservice landscape in different platforms. First supported platform will be the Google Cloud (GCP).
 
@@ -57,3 +61,5 @@ Footnotes
 .. [3] https://cloud.google.com/sdk/
 .. [4] https://git-scm.com/
 .. [5] https://github.com/AGWA/git-crypt
+
+Note: this document is writter in Sphinx and the RST syntax see here for install and cheatsheet http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
