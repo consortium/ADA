@@ -62,4 +62,4 @@ Footnotes
 .. [4] https://git-scm.com/
 .. [5] https://github.com/AGWA/git-crypt
 
-Note: this document is writter in Sphinx and the RST syntax see here for install and cheatsheet http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+Note: this document is written in Sphinx and the RST syntax see here for install and cheatsheet http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
