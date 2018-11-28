@@ -53,7 +53,7 @@ Initialize configuration
 License
 -------
 
-See License file in this directory.
+See License file in this directory. LICENSE
 
 Footnotes
 ---------
