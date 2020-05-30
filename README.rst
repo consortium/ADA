@@ -7,7 +7,7 @@ ADA Infrastructure
 
 A FOSS R&D software project for 'publishing microservices and infrastructure automation' as a consortium lead by TIB – German National Library of Science and Technology. Consortium partners are: Endocode, le-tex publishing services, Fidus Writer, and Vivliostyle.
 
-`Project status <github.com/consortium/ADA_infra/wiki>`_ > Nov 2018
+`Project status <https://github.com/consortium/ADA_infra/wiki>`_ > Nov 2018
 
 This is the ADA-Infrastructure repository to create a publishing microservice landscape in different platforms. First supported platform will be the Google Cloud (GCP).
 
